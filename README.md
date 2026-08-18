@@ -2,7 +2,11 @@
 <h3 align="center">Building things at the intersection of code, AI & impact 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Undergrad+%40+Kongunadu+College;Full+Stack+%7C+MERN+%7C+Flutter+Developer;AI+%2F+Computer+Vision+Enthusiast;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=IT+Undergraduate+%40+Kongunadu+College;Full+Stack+Developer;Java+Developer;AI+%2F+ML+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikeyan-S26&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -13,47 +17,81 @@
 name: Karthikeyan S
 role: Information Technology Student
 degree: B.Tech IT, Kongunadu College of Engineering and Technology (2023–2027)
-focus: Full-Stack Development | Mobile Apps | Applied AI/CV
-mindset: "Ship clean, working code — then make it better."
-currently_exploring: Scalable backend architecture & real-world ML applications
+focus: Full-Stack Development | Java | AI/ML
+mindset: "Build. Learn. Improve."
+currently_exploring: Scalable backend systems, full-stack applications & applied AI
 ```
 
-I'm an IT undergrad who likes turning half-formed ideas into things that actually run. I've interned as a front-end/web developer, built full-stack and mobile apps end-to-end, and even taken a computer-vision project all the way to a research presentation. I care about writing code that's clean, works under pressure, and solves a real problem for a real person.
+I'm an IT undergrad who builds full-stack products end to end — from REST APIs and databases to polished front-ends — and enjoys wiring AI into real workflows. I've interned as a front-end/web developer, shipped a full-stack e-commerce platform with a Laravel backend, and built AI-driven tools ranging from an emergency-call triage system to an agent-based validation engine.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,express,mysql,mongodb,firebase,flutter,dart,html,css,tailwind,git,github,vscode,postman" />
-</p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,py,js,ts" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,flask,fastapi" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow" /> · Whisper (Speech-to-Text) · Gemini API · Anthropic API
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
 **Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
 
-### 🚀 What I've Been Building
+### 🚀 Featured Projects
 
 | Project | Stack | What it does |
-|---|---|---|
-| 🌾 [**FarmSense AI**](https://github.com/Karthikeyan-S26/FarmSense-AI) | Flutter, Firebase | AI-powered mobile app giving farmers real-time crop recommendations — presented at ICSDT'26 |
-| 🛍️ [**StyleSpot**](https://github.com/Karthikeyan-S26/StyleSpot) | MERN Stack | Full-stack e-commerce platform with JWT auth and a scalable REST backend |
-| ✋ [**SilentScript**](https://github.com/Karthikeyan-S26/sign2text-ml-project) | OpenCV, MediaPipe | Real-time sign-language-to-text system for accessible communication |
+| ------- | ----- | ------------ |
+| 🛍️ **[Luxora](https://github.com/Karthikeyan-S26/Luxora-frontend)** — [Backend](https://github.com/Karthikeyan-S26/Luxora-backend) | React 19, TanStack Router, Laravel 12, Sanctum, MySQL | Full-stack e-commerce platform with a React/TanStack frontend and a Laravel REST API backend handling auth, orders, and product data. |
+| 🚨 **[ResqAi (RAPID-100)](https://github.com/Karthikeyan-S26/ResqAi)** | Python, Flask, Whisper | AI emergency-call triage system that transcribes calls, classifies emergency type, assigns priority, and routes them via a REST API. |
+| 🌾 **[FarmSense AI](https://github.com/Karthikeyan-S26/FarmSense-AI)** | Node.js, PostgreSQL, Drizzle ORM, Firebase, Gemini & Anthropic APIs | Full-stack climate-smart agriculture platform delivering AI-driven crop insights — presented at ICSDT'26. |
+| 🧠 **[SmartDebug](https://github.com/Karthikeyan-S26/SmartDebug-openenv)** | Python, FastAPI | OpenEnv-based training environment where AI agents iteratively debug code through a step-based edit → test → observe loop. |
+| ✅ **[IntelliValidate Pro](https://github.com/Karthikeyan-S26/AI-Agentathon)** | TypeScript, React, Multi-Agent Architecture | Multi-agent phone validation system handling carrier detection and WhatsApp verification. |
+| 📈 **[HabitFlow](https://github.com/Karthikeyan-S26/HabitFlow)** | HTML5, CSS3, Vanilla JS | Habit-tracking web app with streak tracking, weekly analytics charts, and a monthly calendar heatmap — no frameworks. |
+| 🏢 **[Tcongs](https://github.com/Karthikeyan-S26/Tcongs)** · [Live Demo](https://tcongs-cyan.vercel.app) | Next.js 15, TypeScript, GSAP, Framer Motion, Lenis | Production-quality marketing site for an IT company with scroll-triggered animations and smooth-scroll UX. |
+| 🔗 **[PhantomSync AI](https://github.com/Karthikeyan-S26/clear-chain-ai)** · [Live Demo](https://clear-chain-ai.vercel.app) | React, TypeScript, Tailwind CSS | AI-powered supply-chain management dashboard for shipment and inventory visibility. |
+| 🎯 **[TechFlare](https://github.com/Karthikeyan-S26/TechFlare)** · [Live Demo](https://techflare-two.vercel.app) | React, TypeScript, Tailwind CSS | Competitive tech-assessment platform with a live leaderboard, admin monitoring dashboard, and anti-cheat detection. |
+| 🪪 **[WelcomeGuard](https://github.com/Karthikeyan-S26/WelcomeGuard)** · [Live Demo](https://face-recognition-eight-taupe.vercel.app) | React, Vite, TypeScript | Face-recognition based access/welcome interface with a React front-end. |
 
-> 📄 I also co-authored *"A Sustainable Heat-to-Light Conversion System for Emergency Lighting"*, published in IJSRED.
+> 📄 Co-authored *"A Sustainable Heat-to-Light Conversion System for Emergency Lighting"*, published in IJSRED.
 
 ---
 
 ### 💼 Experience
 
-- **Web Developer Intern** @ Media Wave Technologies — shipped responsive React interfaces, debugged UI in a team Git workflow
-- **Front-End Developer Intern** @ Micro IT — built reusable, accessible UI components with HTML/CSS/JS
+- **Web Developer Intern** @ Media Wave Technologies — built responsive React interfaces and debugged UI issues in a team Git workflow.
+- **Front-End Developer Intern** @ Micro IT — built reusable, accessible UI components using HTML, CSS, and JavaScript.
 
 ---
 
 ### 🏁 Hackathons & Exposure
 
-`HackIndia 2025 & 2026` · `InnoHack'26` · `AI-Agentathon` · `Thooral Hackathon` — building fast, under pressure, with a team.
+<p align="left">
+  <img src="https://img.shields.io/badge/HackIndia-2025_%26_2026-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/InnoHack-2026-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI--Agentathon-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Thooral_Hackathon-2E9EF7?style=flat-square" />
+</p>
+
+Collaborated in team-based environments to build and ship solutions under strict timelines, from idea to working prototype.
 
 ---
 
@@ -66,15 +104,29 @@ I'm an IT undergrad who likes turning half-formed ideas into things that actuall
 
 ---
 
+### 🧠 Developer Journey
+
+- 💻 Building full-stack applications end to end
+- ☕ Strengthening Java & DSA fundamentals
+- 🤖 Exploring AI/ML applications and agent-based systems
+- 🚀 Participating in hackathons
+- 🔧 Continuously improving real-world projects
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthikeyan-S26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-S26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikeyan-S26&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan-S26&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikeyan-S26&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthikeyan-S26&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthikeyan-S26&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -87,4 +139,4 @@ I'm an IT undergrad who likes turning half-formed ideas into things that actuall
   <a href="mailto:karthisenthil026@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ Open to internships, collabs, and interesting problems to solve.</i></p>
+<p align="center"><i>⭐ Open to internships, collaborations, and interesting problems to solve.</i></p>
