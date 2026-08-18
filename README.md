@@ -114,19 +114,10 @@ Collaborated in team-based environments to build and ship solutions under strict
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikeyan-S26&theme=github_dark" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikeyan-S26&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthikeyan-S26&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karthikeyan-S26&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan-S26&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
