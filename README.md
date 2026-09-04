@@ -17,7 +17,7 @@
 name: Karthikeyan S
 role: Information Technology Student
 degree: B.Tech IT, Kongunadu College of Engineering and Technology (2023–2027)
-focus: Full-Stack Development | Java | AI/ML
+focus: Full-Stack Development | Java | Python | AI/ML
 mindset: "Build. Learn. Improve."
 currently_exploring: Scalable backend systems, full-stack applications & applied AI
 ```
@@ -30,7 +30,7 @@ I'm an IT undergrad who builds full-stack products end to end — from REST APIs
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,py,js" />
 
 **Frontend**
 
